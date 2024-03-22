@@ -8,3 +8,12 @@ Hany was a fictional character used by our instructor in Microprocessors course 
 ## Screenshot
 
 ![game](./Screenshots/game.png)
+
+
+## prerequisites
+
+You must have [dosbox](https://www.dosbox.com/) installed.
+
+## How to run
+- Open dosbox and mount the project directory.
+- run HANY.EXE
